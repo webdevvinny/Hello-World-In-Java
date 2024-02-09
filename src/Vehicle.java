@@ -1,6 +1,5 @@
 
-package k;
-final class Vehicle {
+class Vehicle {
     final String brand = "Ford";        // Vehicle attribute
     public void honk() {                    // Vehicle method
         System.out.println("The vehicle is hooting: ---> Tut, tut!");
